@@ -1,50 +1,56 @@
+<!-- Banner (Optional, uncomment if needed) -->
+<!-- 
 <div align="center">
-  <img height="200" width = "800"src="banner.gif"  />
-</div>
+  <img src="banner.gif" height="200" width="800" alt="Banner" />
+</div> 
+-->
 
-###
-
-<h3 align="center">🌯🌯🌯</h3>
-<!--<h4 align="left">🌯 Currently building my own (minimalist) shell </h4>!-->
+<h1 align="center">Hi there, I'm Koppo 👋</h1>
+<h3 align="center">(future) Software Engineer / Tech Enthusiast</h3>
 
 
-###
+<br>
+
+<h2 align="center">💻 Tech Stack ⚡</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ch3hine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ch3hine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" title="TailwindCSS" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="OpenGL" title="OpenGL" />
 </div>
 
-###
+<br>
 
-<h3 align="left">🔨Tech Stack:</h3>
 
-###
+<br>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="unity logo"  />
-</div>
+<h2 align="center">🔗 Let's Connect</h2>
 
-###
-
-<h3 align="left">🔗Links:</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/chahine-nabi-6bb375330/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/x/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" title="My LinkedIn Profile" />
   </a>
 </div>
 
-###
+<br>
 
-<!--<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ4ZDMzd3YwaGdxMHJ2czZ2a3dtdDBrNjliOWU4bTNqY3QyZnBweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUQ4rhUZJYiQsas6WD/giphy.gif"  /> -->
+<br>
 
-###
+<!-- GitHub Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/koppochoa/koppochoa/output/github-snake-dark.svg" alt="GitHub Snake" />
+</div>
