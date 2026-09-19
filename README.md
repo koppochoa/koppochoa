@@ -5,7 +5,7 @@
 </div> 
 -->
 
-<h1 align="center">Hi there, I'm Koppo 👋</h1>
+<h1 align="center">Hi there, I'm Chahine 👋</h1>
 <h3 align="center">(future) Software Engineer / Tech Enthusiast</h3>
 
 
